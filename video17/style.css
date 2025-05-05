@@ -1,0 +1,26 @@
+/* universal selector */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.class{
+  background-color: aqua;
+}
+.id{
+  background-color: aquamarine;
+}
+div {
+  background-color: bisque;
+}
+div > p {
+  background-color: black;
+  color: white;
+}
+div h1 {
+  background-color: blanchedalmond;
+}
+a:active{
+  background-color: blue;
+}
