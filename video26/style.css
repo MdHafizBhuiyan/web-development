@@ -1,0 +1,6 @@
+.box {
+  width: 10vw;
+  height: 10vh;
+  border: 2px solid red;
+  overflow: auto;
+}
