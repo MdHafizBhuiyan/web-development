@@ -1,0 +1,16 @@
+.container {
+  background-color: beige;
+  width: 600px;
+  height: 600px;
+  border: 2px solid black;
+}
+
+.box {
+  background-color: aqua;
+  width: 100px;
+  height: 100px;
+  transition: all 3s ease-in-out 1;
+}
+.translet {
+  transform: translateX(45%) translateY(30%);
+}
